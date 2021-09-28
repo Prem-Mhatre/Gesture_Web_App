@@ -4,6 +4,7 @@ body{
     background-position: center;
     color: white;
     padding: 50px;
+    font-family: cursive;
 }
 #camera, #result{
     width: 360px;
@@ -31,4 +32,10 @@ label{
 }
 h4{
     font-size: 25px;
+}
+.result_name{
+    font-size: 25px;
+}
+.result_emotion{
+    font-size: 40px;
 }
